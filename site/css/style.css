@@ -8,3 +8,7 @@ header {
   margin-top: 4rem;
   margin-left: 3rem;
 }
+
+.bold-subtitle {
+  font-weight: bold;
+}
