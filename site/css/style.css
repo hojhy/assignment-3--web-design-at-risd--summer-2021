@@ -18,6 +18,7 @@ header {
 .bold-subtitle {
   font-weight: bold;
   font-size: 2rem;
+  margin-bottom: none;
 }
 
 .red-number {
@@ -33,6 +34,10 @@ li {
 }
 
 p {
-  margin-bottom: 3rem;
   width: 50%;
+}
+
+.paragraph-content {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
 }
