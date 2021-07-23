@@ -25,3 +25,7 @@ p {
 .red-number {
   color: rgb(210,30,30);
 }
+
+#navigation-system {
+  padding-bottom: 32rem;
+}
