@@ -31,3 +31,7 @@ p {
 #navigation-system {
   padding-bottom: 32rem;
 }
+
+li {
+  line-height: 1.9rem;
+}
