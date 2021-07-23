@@ -40,4 +40,5 @@ p {
 .paragraph-content {
   padding-top: 1rem;
   padding-bottom: 3rem;
+  line-height: 1.2rem;
 }
