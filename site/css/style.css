@@ -20,10 +20,6 @@ header {
   font-size: 2rem;
 }
 
-p {
-  margin-bottom: 3rem;
-}
-
 .red-number {
   color: rgb(210,30,30);
 }
@@ -34,4 +30,9 @@ p {
 
 li {
   line-height: 1.9rem;
+}
+
+p {
+  margin-bottom: 3rem;
+  width: 50%;
 }
