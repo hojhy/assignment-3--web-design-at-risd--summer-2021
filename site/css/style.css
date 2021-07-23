@@ -1,6 +1,7 @@
 * {
   font-family: 'Roboto', sans-serif;
   margin-left: 3rem;
+  background-color: transparent;
 }
 
 header {
@@ -19,4 +20,8 @@ header {
 
 p {
   margin-bottom: 3rem;
+}
+
+.red-number {
+  color: rgb(210,30,30);
 }
