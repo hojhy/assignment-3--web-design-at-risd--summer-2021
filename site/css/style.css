@@ -54,3 +54,7 @@ a {
   color: black;
   text-decoration: none;
 }
+
+#photo-image {
+  margin-left: 5rem;
+}
