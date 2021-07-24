@@ -29,10 +29,12 @@ header {
 
 li {
   line-height: 1.9rem;
+  margin-left: 5rem;
 }
 
 p {
   width: 40%;
+  margin-left: 5rem;
 }
 
 .paragraph-content {
@@ -48,6 +50,7 @@ hr {
   height: 0.2rem;
   background-color: rgb(210,30,30);
   border: 0;
+  margin-left: 5rem;
 }
 
 a {
