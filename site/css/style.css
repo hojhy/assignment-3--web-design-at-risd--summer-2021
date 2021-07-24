@@ -58,3 +58,7 @@ a {
 #photo-image {
   margin-left: 5rem;
 }
+
+#photo-credit {
+  text-decoration: underline;
+}
